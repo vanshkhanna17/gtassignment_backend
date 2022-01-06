@@ -1,5 +1,6 @@
 # gtassignment_backend
 Framework used: Spring Boot - Java
+
 Database used: MySql
 
 After Cloning the repo, use maven update and maven build concurrently to execute the project.
